@@ -13,6 +13,7 @@ Given This is a invalid login test
 Scenario: Create a contact
 Given This is a contact test case
 
+
 @SmokeTest @RegressionTest
 Scenario: Create a deal
 Given This is a deal test case
